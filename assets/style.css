@@ -501,3 +501,7 @@ code {
    top: 0;
    width: 100%;
 }
+
+.iframe-container-steam {
+  padding-top: 30%;
+}
