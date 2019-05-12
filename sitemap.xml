@@ -3,18 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.socah.org/categories/</loc>
+    <loc>https://www.socah.org/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.socah.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.socah.org/</loc>
+    <loc>https://www.socah.org/news/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.socah.org/railroadtracks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.socah.org/releases/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.socah.org/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.socah.org/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.socah.org/tags/</loc>
-    <priority>0</priority>
+    <loc>https://www.socah.org/raintime/</loc>
   </url>
   
 </urlset>

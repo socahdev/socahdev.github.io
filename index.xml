@@ -1,14 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello Friend</title>
-    <link>http://www.socah.org/</link>
-    <description>Recent content on Hello Friend</description>
+    <title>SOCAH</title>
+    <link>https://www.socah.org/</link>
+    <description>Recent content on SOCAH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://www.socah.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.socah.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://www.socah.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.socah.org/about/</guid>
+      <description>our debut game railroad tracks is out now! get it for free at itch.io or steam
+ The S.O.C.A.H. is an independently operating, loosely defined workgroup, dedicated to making games and music. It was founded in Hilversum in 2015, and will therefore always be slightly dedidcated to modernist aesthetics. Every age has a defining popular artform, that translates to the leading information medium of it&#39;s time. For the nineteenth century, the newspaper age, this was the literary novel.</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://www.socah.org/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.socah.org/news/</guid>
+      <description>our debut game railroad tracks is out now! get it for free at itch.io or steam
+ Tweets by socahdev</description>
+    </item>
+    
+    <item>
+      <title>Railroad Tracks</title>
+      <link>https://www.socah.org/railroadtracks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.socah.org/railroadtracks/</guid>
+      <description>&amp;gt;&amp;gt; our debut game railroad tracks is out now! get it for free at itch.io or steam
+ 
+Devoid of all memory, a small pierrot awakens early one October morning, down by an abandoned railway line. Help him navigate his mysterious world, but beware, for the further he wanders from the rigid safety of the railroad, the more unsettling his surroundings become. . .
+Genre: exploration/adventure
+Game length: 6-8 hours</description>
+    </item>
+    
+    <item>
+      <title>Releases</title>
+      <link>https://www.socah.org/releases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.socah.org/releases/</guid>
+      <description>our debut game railroad tracks is out now! get it for free at itch.io or steam
+ We have currently published the following releases: Railroad Tracks [2018 Video Game]
+Asynchronous Revivalism [2018 OST]
+Negative Dialectics [2016 EP]
+
+Railroad Tracks  Railroad Tracks is a full length exploration based adventure game for PC that we released in 2018. You can get it for free on Steam and other platforms. READ MORE</description>
+    </item>
+    
+    <item>
+      <title>The Raintime</title>
+      <link>https://www.socah.org/raintime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.socah.org/raintime/</guid>
+      <description>our debut game railroad tracks is out now! get it for free at itch.io or steam
+ At first glance, William is the lazy college student. He spends his time sleeping in, skipping lectures, drinking with his friends and gathering up courage to talk to Jasmine, who&#39;s on the theater committee. But over the last few weeks a mysterious restlessness has come over William. He&#39;s distanced himself from his friends, spends his time alone in his room and harbors thoughts that cannot bear the light of day .</description>
+    </item>
     
   </channel>
 </rss>
