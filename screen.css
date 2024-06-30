@@ -605,7 +605,7 @@ nav a.nav-toggle{
 	display:inline;
 	position:absolute;
 	right:10px;
-	top:-7px;
+	top:0px;
 	font-size:1.9em;
 	border:0;
 	text-shadow:0;
