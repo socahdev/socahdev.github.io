@@ -14,7 +14,7 @@ body,html{
 	padding:0
 }
 body{
-	font-family:Rubik,sans-serif
+	font-family:Arial,sans-serif
 }
 a{
 	color:#00a4ca;
@@ -144,7 +144,7 @@ section{
 }
 header{
 	color:#fff; /* Changed to black from #fff */
-	padding:15px 0;
+	padding:20px 0;
 	position:fixed;
 	width:100%;
 	z-index:9999;
@@ -579,7 +579,7 @@ nav{
 	font-size:.9em;
 	width:100%;
 	position:relative;
-	top:-5.5px;
+	top:0px;
 	text-shadow:none
 }
 @media (min-width:620px){
