@@ -98,6 +98,18 @@ footer {
     text-align: right
 }
 
+separator {
+    color: var(--text-color);
+    border-bottom: var(--border);
+    margin: 20px auto 15px;
+    padding-top: 10px;
+    text-align: right
+}
+
+separator {
+    margin-bottom: 20px
+}
+
 header {
     margin-top: 25px;
     margin-bottom: 10px
