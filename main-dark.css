@@ -161,6 +161,14 @@ footer {
     list-style-type: none
 }
 
+.menu ul.right-aligned {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    padding-left: 0px;
+    list-style-type: none;
+    text-align: right
+}
+
 .menu ul li {
     display: inline;
     margin-right: 12px
@@ -168,8 +176,7 @@ footer {
 
 .menu ul li.margin-left-only {
     margin-right: 0; /* Remove margin-right */
-    margin-left: 12px;
-    text-align: right
+    margin-left: 12px
 }
 
 .menu ul li a {
