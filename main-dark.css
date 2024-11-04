@@ -163,7 +163,13 @@ footer {
 
 .menu ul li {
     display: inline;
-    margin-right: 10px
+    margin-right: 12px
+}
+
+.menu ul li.margin-left-only {
+    margin-right: 0; /* Remove margin-right */
+    margin-left: 12px;
+    text-align: right
 }
 
 .menu ul li a {
